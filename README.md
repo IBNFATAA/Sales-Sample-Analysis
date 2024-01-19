@@ -46,7 +46,7 @@ In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensiv
 ![Sales (1)](https://github.com/habeebsalaudeen/Sales-Sample-Analysis/assets/97491265/54493a37-a3f8-41f6-af64-0e5d846fd5c7)
 
 
-### Profit profit
+### Profit report
 This Power BI report provides a detailed analysis of profit data with dynamic features such as buttons and slicers for month and segment selection. The primary focus is on a line chart illustrating the sum of sales over months and years, allowing users to grasp profits trends without interference from slicers. Additionally, a doughnut chart visualizes profit distribution by ship mode. To highlight key categories, a stacked bar chart showcases the top 5 and bottom 5 sales, contributing to a comprehensive and interactive exploration of tremendous insights when it comes to profit. The report seamlessly combines interactivity with user-friendly design, enabling stakeholders to make informed decisions and strategize effectively based on the presented data.
 ![Profit](https://github.com/habeebsalaudeen/Sales-Sample-Analysis/assets/97491265/3e83b7c2-4152-4f9e-a2bc-c25ff7b58f9a)
 
