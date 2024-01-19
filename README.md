@@ -1,6 +1,7 @@
 # Sales Sample Analysis
 
-![Sales_Grocery (1)](https://github.com/habeebsalaudeen/Sales-Sample-Analysis/assets/97491265/55a6ee42-4155-45f7-af9d-1fc626c24a6b)
+![Sales_Grocery (1)](https://github.com/habeebsalaudeen/Sales-Sample-Analysis/assets/97491265/55a6ee42-4155-45f7-af9d-1fc626c24a6b) | ![groc_store](https://github.com/habeebsalaudeen/Sales-Sample-Analysis/assets/97491265/1f3f188a-cb9c-4d0e-a974-eb8af42f2cb0)
+
 
 ## Introduction
 This is a Power BI on sales analysis of an imaginary company called **Sales Sample**.
@@ -52,9 +53,5 @@ This Power BI report provides a detailed analysis of profit data with dynamic fe
 
 ## Conclusion and Recommendation
 The insights generated from the report shows:
-- The highest generated sales by Month, Same period last year, Month on month revenue = (NOVEMBER)
-- The highest generated revenue by Year = (2017)
-- Revenue Forecast shown from 2017-2018
-- The highest generated revenue by Segment = (CONSUMER)
-- The highest generated revenue by REGION = (SOUTH)
-- The highest generated revenue by Category = (TECHNOLOGY)
+- The highest generated sales by Month and year = (NOVEMBER)
+- Highest sales by ship mode = (STANDARD CLASS)
