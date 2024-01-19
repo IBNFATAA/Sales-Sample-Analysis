@@ -55,3 +55,9 @@ This Power BI report provides a detailed analysis of profit data with dynamic fe
 The insights generated from the report shows:
 - The highest generated sales by Month and year = (NOVEMBER)
 - Highest sales by ship mode = (STANDARD CLASS)
+- Highest sales by CITY = (NEW YORK)
+- Worst sales by city = (Waco)
+- The highest generated profit by Month and year = (OCTOBER)
+- Highest profit by profit = (STANDARD CLASS)
+- Highest profit by profit = (NEW YORK)
+- Worst sales by profit = (ELYRIA)
