@@ -36,7 +36,7 @@ There are 4 dimension tables and 1 fact table. The dimension are all joined to t
 
 The report comprises 2 pages:
 1. Sales report 
-2. Profit report 2
+2. Profit report 
 
 You can interact with the report {here} 
 (https://app.powerbi.com/groups/me/reports/8fe96508-708d-4aea-8604-4c0ece7cabb9/ReportSection62295d81cb28006e7dcb?experience=power-bi)
